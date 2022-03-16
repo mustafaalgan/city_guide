@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "106220737170",
+    "firebase_url": "https://cepkent-17660-default-rtdb.firebaseio.com",
+    "project_id": "cepkent-17660",
+    "storage_bucket": "cepkent-17660.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106220737170:android:557fcd07d75f65e033cc4b",
+        "android_client_info": {
+          "package_name": "com.cepfikir.cepkentadana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106220737170-iasbfep0082au075rq3ih0n8a2u1a7js.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cepfikir.cepkentadana",
+            "certificate_hash": "6f3e977053afb3b36b834499449cfb65aad8f54b"
+          }
+        },
+        {
+          "client_id": "106220737170-l071ucl18bltmisdjh5t7lrlflabn8a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQGpjIqthC3qt2BKYSwAK-GtpfbvloECY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106220737170-l071ucl18bltmisdjh5t7lrlflabn8a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
